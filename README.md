@@ -4,7 +4,7 @@
   <h1>Hi 👋, I'm Prajit Chennupati</h1>
   
   <h3>Computer Science @ Georgia Tech<br>
-  Artificial Intelligence / Systems & Architecture • Math Minor</h3>
+  Focus on Artificial Intelligence & Theory • Math Minor</h3>
 </div>
 
 <br>
