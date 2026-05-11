@@ -4,7 +4,7 @@
   <h1>Hi 👋, I'm Prajit Chennupati</h1>
   
   <h3>Computer Science @ Georgia Tech<br>
-  Focus on Artificial Intelligence & Theory • Math Minor</h3>
+  Artificial Intelligence / Systems & Architecture • Math Minor</h3>
 </div>
 
 <br>
@@ -58,7 +58,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.linkedin.com/in/prajitchennupati/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
