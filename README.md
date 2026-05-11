@@ -1,85 +1,77 @@
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prajitchennupati.prajitchennupati&"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=prajitchennupati.prajitchennupati" alt="Profile views" />
+  
+  <h1>Hi 👋, I'm Prajit Chennupati</h1>
+  
+  <h3>Computer Science @ Georgia Tech<br>
+  Artificial Intelligence / Systems & Architecture • Math Minor</h3>
 </div>
 
-###
-
-<h1 align="center">Hi 👋, I'm Prajit Chennupati</h1>
-
-###
-
-<h6 align="center">Computer Science @ Georgia Tech<br><br>Focus on Artificial Intelligence & Theory  <br>Math minor in progress</h6>
-
-###
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajitchennupati/prajitchennupati/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajitchennupati/prajitchennupati/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prajitchennupati/prajitchennupati/output/pacman-contribution-graph.svg">
+  <img alt="Prajit's GitHub Contribution Graph" src="https://raw.githubusercontent.com/prajitchennupati/prajitchennupati/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="Android" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
 
-###
+<br>
 
-<h3 align="center">🛠️ What I Work On</h3>
+---
 
-###
+### 🛠️ What I Work On
+- Artificial Intelligence & Machine Learning
+- Data Analysis and Model Development
+- Competitive Programming & Algorithm Design
+- Full-stack Application Development
 
-<p align="left">- Artificial Intelligence projects<br>- Data analysis and machine learning<br>- Competitive programming and algorithm design</p>
+### ⭐ Current Interests
+- Advanced Model Architectures
+- Unity Augmented Reality (AR) Development
+- High Performance Computing
+- Theoretical Computer Science
 
-###
+### 🏆 Highlights
+- Interactive Developer on **ATL Quest** with XR DOJO
+- Founder of **PANDA Organization**
+- Top 100 in Project Euler+ on HackerRank
 
-<h3 align="center">⭐ Current Interests</h3>
-
-###
-
-<p align="left">- Advanced model architecture<br>- Unity augmented reality development<br>- High performance computing</p>
-
-###
-
-<h3 align="center">🏆 Highlights</h3>
-
-###
-
-<p align="left">- Interactive developer on ATL Quest with XR DOJO<br>- Founder of PANDA Organization<br>- Top 100 in Project Euler+ on HackerRank</p>
-
-###
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/prajitchennupati/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="instagram.com/prajitchennupati" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://instagram.com/prajitchennupati" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
-  <a href="pchennupati3@gatech.edu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:pchennupati3@gatech.edu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" />
   </a>
   <a href="https://www.hackerrank.com/profile/prajit_chennupa1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank" />
   </a>
   <a href="https://stackoverflow.com/users/22003625/prajit-chennupati" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="Stack Overflow" />
   </a>
 </div>
-
-###
