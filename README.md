@@ -4,16 +4,12 @@
   <h1>Hi 👋, I'm Prajit Chennupati</h1>
   
   <h3>Computer Science @ Georgia Tech<br>
-  Artificial Intelligence / Systems & Architecture • Math Minor</h3>
+  Artificial Intelligence / Theory • Math Minor</h3>
 </div>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajitchennupati/prajitchennupati/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajitchennupati/prajitchennupati/output/pacman-contribution-graph.svg">
-  <img alt="Prajit's GitHub Contribution Graph" src="https://raw.githubusercontent.com/prajitchennupati/prajitchennupati/output/pacman-contribution-graph.svg">
-</picture>
+
 
 <br>
 
@@ -43,18 +39,13 @@
 - Artificial Intelligence & Machine Learning
 - Data Analysis and Model Development
 - Competitive Programming & Algorithm Design
-- Full-stack Application Development
+- Quantum Computing Algorithims
 
 ### ⭐ Current Interests
 - Advanced Model Architectures
-- Unity Augmented Reality (AR) Development
 - High Performance Computing
 - Theoretical Computer Science
-
-### 🏆 Highlights
-- Interactive Developer on **ATL Quest** with XR DOJO
-- Founder of **PANDA Organization**
-- Top 100 in Project Euler+ on HackerRank
+- Quantum Computing
 
 ---
 
